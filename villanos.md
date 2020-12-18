@@ -2,3 +2,4 @@
 
 * Thanos 
 * Craneo rojo
+* Capitán America
